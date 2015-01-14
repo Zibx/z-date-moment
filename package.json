@@ -1,0 +1,27 @@
+{
+  "name": "z-date-moment",
+  "version": "0.0.1",
+  "description": "z-date-moment",
+  "main": "lib/date/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+  },
+  "devDependencies": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Zibx/z-date-moment.git"
+  },
+  "keywords": [
+    "moment",
+    "date"
+  ],
+  "author": "Zibx",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Zibx/z-date-moment/issues"
+  },
+  "homepage": "https://github.com/Zibx/z-date-moment"
+}
